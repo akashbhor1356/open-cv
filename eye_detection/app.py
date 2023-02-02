@@ -1,6 +1,6 @@
 import cv2
 
-# Load the cascade
+## Load the cascade
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
 
 # To capture video from webcam. 
