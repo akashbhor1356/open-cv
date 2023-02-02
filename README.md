@@ -1,3 +1,2 @@
 # opencv
-Computer Vision
-computer vision python projects
+Computer Vision python projects
